@@ -4,26 +4,13 @@ description: This is very hard!
 
 # Updating versions
 
-## Replacing the ClientSig
+## We don't know
 
-We will first be replace the clientsig!
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- You will have to find everything yourself
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+Sadly, we don't know how to update version's but I can give you advice to help you!  
 
 
+## Tips
+
+* Use Cheat Engine for your client signatures! This helps people update Horion! For a tutorial, [Tutorial](https://guidedhacking.com/threads/beginner-cheat-engine-tutorial-video-guide.9690/)
+* Test the waters: If something seems that Horion will crash too, try removing it and building it. Keep trying until you get a working injected client!
 

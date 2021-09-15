@@ -8,9 +8,11 @@ description: Answering questions
 
 No, this is only for Windows 10.
 
-## Can I code a 1.16.220 client out of this?
+## I'm too stupid? How do I get source code to skid?
 
-No, you can't not unless you have client instances and other code. We will be working on a guide in the future if we ever find a way to make this 1.16.220 but you are not.
+For retarded people, use this link for source code \([Link](https://github.com/Turkeii/MCPE-Client-Sources)\)! But we don't recommend skidding, just use it as inspiration
+
+ 
 
 
 
