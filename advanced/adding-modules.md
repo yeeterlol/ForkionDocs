@@ -218,8 +218,9 @@ We will go to Horion.vcproxject and edit it via a text editor!
     <ClCompile Include="Horion\Module\Modules\Waypoints.cpp" />
     <ClCompile Include="Horion\Module\Modules\Xray.cpp" />
     <ClCompile Include="Horion\Module\Modules\Zoom.cpp" />
+    // Do not interact or errors!
     <ClCompile Include="Horion\Module\Moudles\YourModuleHere.cpp" /> // The module you want to add
-  // Do not interact
+  // Do not interact or errors!
  
 ```
 
