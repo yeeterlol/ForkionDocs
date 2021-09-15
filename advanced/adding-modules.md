@@ -320,8 +320,9 @@ We will add to the ClCompile our cpp. Now let's go to the .h!
     <ClInclude Include="Horion\Module\Modules\Waypoints.h" />
     <ClInclude Include="Horion\Module\Modules\Xray.h" />
     <ClInclude Include="Horion\Module\Modules\Zoom.h" />
-    <ClInclude Include="Horion\Module\Modules\YourModuleHere.h" />
-    // Do not interact
+    // Do not interact or errors!
+    <ClInclude Include="Horion\Module\Modules\YourModuleHere.h" /> // The module you want to edit!
+    // Do not interact or errors!
 
 ```
 
